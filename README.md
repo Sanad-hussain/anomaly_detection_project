@@ -27,7 +27,7 @@ The **IsolationForest** algorithm was chosen due to its efficiency in detecting 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Sanad-hussain/anomaly_detection_project.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -61,5 +61,4 @@ For any questions or further information, please contact Sanad Hussain at sanadh
 
 ---
 
-**Note**:URL of the repository <> where the company can clone the project.
-# anomaly_detection_project
+**Note**:URL of the repository <https://github.com/Sanad-hussain/anomaly_detection_project.git> where the company can clone the project.
